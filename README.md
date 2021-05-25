@@ -18,7 +18,8 @@ De modo geral, vocês deverão adicionar o seu próprio arquivo markdown (`md`),
 5. Coloque uma imagem sua, caso queira, no diretório `/students/img`. Com o nome no mesmo formato do `md`. Ou seja, `nome_sobrenome1_sobrenome2.ext`. Sendo `ext` a extensão do seu arquivo (como `jpg`, `png`, etc.). De preferência, escolha uma foto quadrada.
 6. Faça um _commit_ adicionando essas alterações.
 7. Faça um _push_ para o seu _fork_
-8. Por fim, faça um _pull request_ do seu _fork_ para esse [repositório](https://github.com/emap2021/freshmenbook)
+8. Por fim, faça um _pull request_ do seu _fork_ para esse [repositório](https://github.com/emap2021/freshmenbook). 
+9. Peça para que eu (@adamesalles) faça o `code review` (revise o código).
 
 ---
 
