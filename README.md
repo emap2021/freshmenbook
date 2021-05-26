@@ -29,6 +29,14 @@ Qualquer sugestão de mudança, pode fazer um _pull request_ requisitando a alte
 
 Ou, se quiser, fale com a turma, ou comigo (Adame).
 
+Sobre o curso, gostaria que padronizassem em:
+
+ - Ciência de Dados
+ - Matemática Aplicada
+ - Ciência de Dados e Matemática Aplicada
+
+
+
 Para facilidade, esse é o [modelo de markdown](students/info/model.md).
 
 Eu pretendo, depois de todos os senhores enviarem seus arquivos, juntar com algumas pessoas e criar um "book" mesmo.
